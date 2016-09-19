@@ -1,0 +1,26 @@
+{3}{red}{b}Generations of the 22nd and 23rd Centuries{/b}{/red}
+++++++
+{b}Veteran (Tainted){/b} - tough, aggressive {br}
+- born before 2135CE (MY96){br}
+{b}WarBorn (Shattered){/b} - nervous and timid {br}
+- born 2136CE to 2160CE (MY97 - MY110) {br}
+{b}Renewer{/b} - optimistic and a strong work ethic {br}
+- born 2161CE to 2185CE (MY110 - MY123){br}
+{b}Care not’s{/b} -  cynical and resentful {br} 
+- born 2186CE - 2207CE (MY123 - MY134) {br}
+{b}Princesses{/b} - selfish and self-entitled.{br}
+-  born 2208CE to 2227CE (MY135 - MY145){br}
+{b}Missing{/b} - no-one born on earth {br}
+- born 2228CE to 2257CE (MY146 - MY161) {br}
+{b}Comeback Kids{/b} - disrespectful and subversive {br}
+- born after 2258CE (MY162){br} 
+
+{b}Mars Only Generations{/b} {br}
+{b}Emperors (Therns){/b} - miserly and safety obsessed {br}
+- born MY97 - MY123 (2136CE - 2185CE) {br}
+{b}Chosen (Hormads){/b} - timid and fatalistic {br}
+- born MY135 - MY161 (2208CE - 2257CE) {br} 
+
+CE = Common Era{br}
+MY = Mars Year{br}
+Mars year 1 started on 11 April 1955CE{br}

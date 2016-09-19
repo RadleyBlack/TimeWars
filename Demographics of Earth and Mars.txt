@@ -1,0 +1,120 @@
+{3}{red}{b}Demographics of Earth and Mars{/b}{/red}
+
+
+{b}2246CE Earth Demographics{/b} {br}
+{tt}
+++++++
+{b}Generation - . - . - . -. -	[… Age …] -	Percentage{/b}{br}
+++++++
+Veteran (Tainted) - . -. -	[111 - …] -   	16%{br}
+WarBorn (Shattered) - 		[.86 - 110] -	2%{br}
+Renewer’s / Renewal -		[.61 - .85] -  52%{br}
+Care not’s . - . - . - . -. -	. -. - [.39 - 60] -   29%{br}
+Princesses  . - . - . - . - . - . - . - [.19 - .38] - 	1%{br}
+Missing . - . - . - . - . - . - . - [… - .18] -   	0%{br}
+{/tt}
+
+{b}2246 Era Earth Demographics by Tarka{/b} {br}
+++++++
+Survival Tarka - . - . - . - . - . - . - . - . - . - . - 48%{br}
+Misc. Earth Commercial Tarka - . - . - 52%{br}
+
+{b}Average age{/b} : 75{br}
+{b}Oldest Human{/b} : Beate Saqui Travere born 2096CE (age 150 ){br}
+++++++
+
+
+{b}2299CE Earth Demographics by Generation{/b}
+{tt}
+++++++
+{b}Generation - . - . - . -	[… Age …] -	Percentage{/b}{br}
+++++++
+Veteran (Tainted) - . - . - . - [164 - …] -   	13%{br}
+WarBorn (Shattered) _ 		[139 - 163] -	1%{br}
+Renewer’s / Renewal -		[114 - 138] -  47%{br}
+Care not’s - . - . - . -. - . - . - . -	[.97 - 113] -  26%{br}
+Princesses - . - . - . -. -  . - . - . -	[.77 - .96] -  1%{br}
+Missing - . - . -  . - . -. -  . - . - . - [.42 - .76] -  0%{br}
+Comeback Kids . - . - . - . -	[… - .41] -    12%{br}
+{/tt}
+
+{b}2299 Era Earth Demographics by Tarka {/b}
+++++++
+Free Mind Tarka  - . - . - . - . - . - . - . - . - . - 11%{br}
+Misc. Earth Commercial Tarka - . - . - 89%{br}
+Black Tarka - Unknown (Estimated 10% - 25%){br}
+
+{b}Average age{/b} :118{br}
+{b}Oldest Human{/b} Beate Saqui Travere born 2096 ( age 203 ) {br}
+
+++++++
+
+
+{b}MY183 (2299CE) Mars Demographics{/b}
+{tt}
+++++++
+{b}Generation - . - . - . -	[… Age …] -	First wave + Second wave{/b}{br} 
+++++++
+Veteran (Tainted)  - . - . -	[87 - …] -   	16% + 2% = 18%{br}
+Emperors (Therns)  - . -	[60 - 86] -   2% + 0% = 2%{br}
+Renewer’s / Renewal -		[60 - 73] - 	0% + 28% = 28%{br}
+Care not’s  - . - . - . - . - . - . -	[51 - 59] -  	4% + 20% = 24%{br}
+Chosen (Hormads	) - . -		[22 - 50] -	7% + 10% = 17%{br}
+Comeback Kids  - . - . - . -	[… - 21] -    4% + 9% = 11%{br}
+{/tt}
+
+First Wave Martian Demographics by Tarka \
+{tt}
+++++++
+{b}Generation - . - . - . -	[… Age …] -	XMEET + Areos{/b}{br} 
+++++++
+Veteran (Tainted)  - . - . -	[87 - …] -   	25% + 23% = 48%{br}
+Emperors (Therns)  - . -	[60 - 86] -   7% + 0% = 7%{br}
+Care not’s  - . - . - . - . - . - . -	[51 - 59] -  	10% + 2% = 12%{br}
+Chosen (Hormads	) - . -		[22 - 50] -	19% + 2% = 21%{br}
+Comeback Kids  - . - . - . -	[… - 21] -    6% + 6% = 12%{br}
+{/tt}
+
+Sponge land Demographics 
+++++++
+{tt}
+{b}Generation - . - . - . -	[… Age …] -	{/b}{br} 
+++++++
+Veteran (Tainted)  - . - . -	[87 - …] -   	38%{br}
+Emperors (Therns)  - . -	[60 - 86] -   10%{br}
+Care not’s  - . - . - . - . - . - . -	[51 - 59] -  	15%{br}
+Chosen (Hormads	) - . -		[22 - 50] -	28%{br}
+Comeback Kids  - . - . - . -	[… - 21] -    9%{br}
+++++++
+{/tt}                                       
+
+
+{b}MY183 (2299CE) Mars City Demographics{/b}
+{tt}
+++++++
+{b}Generation - . - . - . -	[… Age …] -	First wave + Second wave{/b}{br} 
+++++++
+Veteran (Tainted)  - . - . -	[87 - …] -   	9% + 3% = 12%{br}
+Emperors (Therns)  - . -	[60 - 86] -   0.1% + 0% = 0.1%{br}
+Renewer’s / Renewal -		[60 - 73] - 	0% + 35% = 35%{br}
+Care not’s  - . - . - . - . - . - . -	[51 - 59] -  	1% + 25% = 26%{br}
+Chosen (Hormads	) - . -		[22 - 50] -	1% + 12% = 13%{br}
+Comeback Kids  - . - . - . -	[… - 21] -    3% + 11% = 14%{br}
+{/tt} 
+
+
+Martian Demographics by Tarka & Wave
+++++++
+{tt}
+XMEET (Manties) / First wave  - . - . - . - . - 22%  {br}
+Areos Tarka (Lotus Eaters) / First wave  - . - 11%  {br}
+Areos Tarka (Lotus Eaters) / Second wave  - 44%  {br}
+Misc. Earth Commercial Tarka {br}
+- (Purists / Air Wasters)  / Second wave - . - 23% {br}
+{/tt}
+
+{b}Average age{/b} : 59 (111JY) {br}
+{b}Oldest Martian{/b} : Ornella Mckayla Westerberg born MY89 (2121CE)  age 94 (178JY){br}
+
+++++++
+

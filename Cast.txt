@@ -1,0 +1,114 @@
+{3}{red}{b}Cast{/b}{/red}
+
+{b}Adonis Como (Captain){/b} - time criminal - Kapteyn’s star {br}
+
+{b}Alec Kunasada{/b} - currently recovering people from history - 2298{br}
+
+{b}Alysia Farrow{/b} - Author of Varija’s favourite book - 2246{br}
+
+{b}Annette Cuevas{/b} - helped raise Varija{br}
+
+{b}Becka Giroux{/b} - 1st Wave Martian Veteran - Jeddara of the Black Pentagon - 2299{br}
+
+{b}Cannon{/b} - team of North American cyber-incursion specialists - 2299{br}
+
+{b}Carine Ford{/b} - Tarka Engineer - Alias for Varija - 2290s{br}
+
+{b}Cassandra Penn{/b} - Choreographer - 2246{br}
+
+{b}Chandrika Cuevas{/b} - Varija’s childhood friend{br}
+
+{b}Cloe York{/b} - helps run Newstock - 2246{br}
+
+{b}Cornelius Cuevas{/b} - helped raise Varija{br}
+
+{b}Dar (Uncle){/b} - helped raise Varija{br}
+
+{b}Darren Steward{/b} - alias used by Mark in 2246 {br}
+
+{b}Djordje Kristiansen (Sergeant){/b}- member of Varija’s Security Team - 2nd Wave Martian Hormad - 2299{br}
+
+{b}Dragon{/b} - Team of Chinese cyber-incursion specialists - 2299{br}
+
+{b}Ellen Sarkozi (Lieutenant){/b} - head of Varija’s Security Team - 2nd Wave Martian Comeback Kid - 2299{br}
+
+{b}Félix Grünewald{/b} - Friend of Jedwar Farkas - 1st Wave Martian Thern - 2299{br}
+
+{b}Fury{/b} - cyber-incursion specialist — Varija’s title - 2299{br}
+
+{b}Gabe Robertson{/b} -  Jeddak of Citron Arbelos - 1st Wave Martian Veteran - 2299{br}
+
+{b}Havel Wolter{/b} - Varija’s (Tis) chief of staff - 2nd Wave Martian Renewer - 2299{br}
+
+{b}Herry Farkas{/b} - Jedwar of Orange Triangle - 1st Wave Martian Veteran - 2299{br}
+
+{b}Hugo Schneider{/b}  - Jedwar of Violet Hourglass - 1st Wave Martian Thern -  2299{br}
+
+{b}Irina Grosz{/b} - Friend of Princess Valarie - 1st Wave Martian Boomerang  - 2299{br}
+
+{b}Irmhild Bloxham{/b} - Psychiatrist working with Alec{br}
+
+{b}Iuppiter York{/b} - helps run Newstock - 2246{br}
+
+{b}Jessica Avninder{/b}  - Varija’s Senior Legislative Assistant - 2nd Wave Martian Comeback Kid - 2299{br}
+
+{b}Jordán Upton (Professor){/b} - 2nd Wave Martian Renewer - Physicist - 2299{br}
+
+{b}Kiro Doyle{/b} - alias of Mark used on Mars - 2299{br}
+
+
+{b}Lavonne Cassano (Sergeant){/b} - member of Varija’s Security Team  - 2nd Wave Martian Hormad - 2299{br}
+
+
+{b}Lucia Acciai{/b} -  alias of Varija briefly used on Mars - 2299{br}
+
+{b}Luke{/b} - Varija’s childhood friend{br}
+
+{b}Lynn Penn{/b} - Sculptor / Architect - 2246{br}
+
+{b}Mark Henderson{/b}  - Physicist - 2017{br}
+
+{b}Mary Jane Kunasada{/b}  - Economist / Varija’s Mother - 2288{br}
+
+{b}Meg Kunasada{/b}  - leader of activist group {i}Sanity{/i} - 2298{br}
+
+{b}Mina Hertz{/b}  - Jeddara of Teal Lune - 1st Wave Martian Veteran - 2299{br}
+
+{b}Monika Suggitt{/b}  - 1st Wave Martian Boomerang - Friend of Princess Valarie  - 2299{br}
+
+{b}Nadja Cleary{/b}  - 1st Wave Martian Boomerang - Engineer / Friend of Princess Valarie - 2299 {br}
+
+{b}Nightingale{/b}  - cyber-incursion specialist - Varija’s Friend - 2299{br}
+
+{b}Ranjeet Queen{/b}  - Historian working with Alec - 2246{br}
+
+{b}Raptor{/b}  - cyber-incursion specialist — Varija’s Friend -  2299{br}
+
+{b}Roger Kunasada{/b}  - Historian / Varija’s Father - 2288{br}
+
+{b}Sandra Green{/b}  - Veteran - 2246{br}
+
+{b}Selina Seager{/b}  - leader of {i}Students For Open Government{/i} - 2280s{br}
+
+{b}Shota Bourke (Warant Officer){/b}  - 2nd Wave Martian Care Not - member of Varija’s Security Team - 2299{br}
+
+{b}Silvia Abategiovanni{/b}  - 1st Wave Martian Boomerang - Friend of Princess Valarie  - 2299{br}
+
+{b}Tânia Robles{/b}  - 1st Wave Martian Boomerang - Friend of Princess Valarie - 2299{br}
+
+{b}Thomas Helrich{/b}  - cyber-security expert - alias of Varija - 2290s{br}
+
+{b}Thórhildr Bellamy{/b}  - Varija’s biggest fan - leader of the Maenads - 2290s{br}
+
+{b}Tidir Klerx{/b}  - 1st Wave Martian Boomerang - Friend of Princess Valarie  - 2299{br}
+
+{b}Tomás Bovér{/b}  - 1st Wave Martian Boomerang - Friend of Princess Valarie - 2299{br}
+
+{b}Tony Barends{/b}  - 1st Wave Martian Veteran - Jeddak of Orange Triangle - 2299{br}
+
+
+{b}Trevor Luebke{/b}  - 2nd in command of {i}Students For Open Government{/i} - 2280s{br}
+
+{b}Valarie Barends{/b}  - 1st Wave Martian Boomerang - Princess of Orange Triangle - 2299{br}
+
+{b}Varija Kunasada{/b}  - cyber-incursion specialist / tarka engineer - 2299{br}
