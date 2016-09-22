@@ -1,0 +1,296 @@
+Chapter 23 : Waiting
+
+{b}Location{/b} : Orange Triangle Franchise, near Eagle City, Meridiani Planum, Mars {br}
+{b}Era by Mars Calendar {/b} : Sol Solis 15 Kanya MY183 {br}
+{b}Era by Earth Calendar {/b} : Thursday 16 March 2299CE {br}
+
+++++++
+
+The Princess grabbed some cylinders from an open box and tossed them one by one to Mark. <There you go. If you are lying to me I will take it out of your hide.>
+
+<We need to move him to somewhere more secure. One of the unclaimed apartments would do. I don’t know what the Jedwar was thinking putting him here. This is ridiculous,> sent Nadja.
+
+<I can’t think about that now. We will talk about it when I get back.>
+
+The princess placed the tase grenade launcher next to Nadja and left the room in a hurry.
+
+Nadja turned on her public profile.
+
+{block}
+{tt}Name: Nadja ’Naddy’ Karo Cleary {br}
+Career: Engineer {br}
+Age: 20 (38 Earth Years){br}
+Gender: Female {br}
+Sexually: Bisexual {br}
+Marital Status: Single {/tt}
+{/block}
+
+Nadja smiled a large cartoon smile. <What ever shall we do while we are waiting?> she asked. <Do you play games?>
+
+<Perhaps a game of Go?> Mark suggested as he plugged in canisters of consumables into his intake ports, starting with feedstock for his internal printers, followed by power from a mid-sized SMES cell, then O{small}2{/small}, water and nutrients.
+
+<Is that what you play in Schiaparelli City?> asked Nadja.
+
+<It is fairly popular there, yes.>
+
+<Here in Eagle City, the game of choice is Slash.>
+
+Mark felt panic twist deep inside. There was no chance he could hold his own against a Martian in Slash. Princess Valerie’s speculation that he was a recent arrival would be proven as fact. <But we only have two people,> he objected.
+
+<Tânia will be here soon. That would make three.>
+
+If Mark still had teeth he would be gritting them. <Sounds like a good idea. I’m looking forward to it.>
+
+Nadja picked up the tase grenade launcher, swapping for the tangler. <First turn around,> she ordered.
+
+<Why?>
+
+Pointing at her gun she sent <Simon says turn around. This will make us both more comfortable.>
+
+He turned around and Nadja slapped something onto his back. <What was that?> he asked.
+
+<That was a tase grenade. It will go off if anything happens to me, like for instance being locked down or killed.>
+
+<I gave my parole.>
+
+<Now you won’t be tempted to break it,> she pointed out.
+
+<And what was that business about making us more comfortable.>
+
+<Well I feel more comfortable. Don’t you feel more comfortable now that there’s no pressure on you to do anything stupid?> 
+
+<Comfortable is the last adjective I would use to describe having a bomb attached to my back, and it was unnecessary. I am not in the habit of being stupid. You do know one more shock would probably kill me,> he sent as he turned back towards her.
+
+<That’s right, you were tased a few times while they were trying to capture you.”
+
+<According to my Survival AI logs, I was hit 5 times. The only reason I survived the fifth strike was that my circuit breakers were still popped from the 4th strike, so my life support system was isolated.>
+
+<All the reason to be a good boy,> she sent.
+
+Mark regretted not making his move when Félix caused a distraction, however there were the auto cannons and the sensor cluster. The auto cannon weren’t positioned ideally, as there were blindspots in their coverage, plus a good shove on the boxes they were perched on would send them flying. But if someone wasn’t monitoring that sensor they were hopelessly incompetent.
+
+<Maybe we got off on the wrong foot. Hi, I’m Kiro.> he sent, holding out his right hand. As she hesitated, her attention on his right hand, he shot a tick missile at the wall with his left hand.
+
+<What was that?>
+
+<What was what?>
+
+<A sound. A snapping or clicking sound.> she clarified.
+
+<It was probably my shoulder. It is still not quite right.> Mark rolled his shoulder producing a click. Mark watched tensely as the hole in the wall shrank and disappeared. He forced himself to show no relief that Nadja had not turned around before the missile and its payload of automata had a chance to hide itself.
+
+The sponge material of the roof and wall were ideal as feedstock for the self replicating automata colonies he had placed there. Once the roof colonies grew big enough, they could drop down on the auto cannons, disabling them within 2.31 seconds. Of course if the guns started firing that could be a very long 2.31 seconds.
+
+He could disable Nadja within 3.48 seconds. However he didn’t want to break his word about not attacking her. Maybe he could fake a message that would lure her outside the room. However that would require access to the franchise’s grid. So far all the grid nodes had refused to have anything to do with him. There was also the small matter of the bomb on his back.
+
+The colony on the wall was also problematic. He was hoping to use it to hack into the sensor cluster on the wall. However he wasn’t a hacker, and manuals and tutorials could only take you so far. He did have comprehensive material for the exact make and model of the sensor cluster. It was the most popular brand you could print. And the tutorials were written by Varija for the classes on cyber penetration that she had taught at ’The Academy’. If they had been stupid enough to set the sensor cluster to factory defaults he might, just might, be able compromise it.
+
+Communicating with the wall colony was difficult. He was using a UV laser bounced off the ceiling. Even though they probably weren’t watching the ceiling for UV flashes, it was still a risk as the laser was shining almost straight at the sensors.
+
+It was all a house of cards, and if Varija managed to ransom him, that would be far better than relying on such a risky plan.
+
+Nadja swapped the gun to her left hand and took his hand, shook it, and sent <You may call me Naddy.> She seemed far more relaxed and friendly now that she had stuck the bomb on him. In fact she radiated a pleased with herself glow that Mark found profoundly irritating.
+
+He shifted the priorities on the repairs to his body strengthening his electrical system and armoured the skin on his back.
+
+<Pleased to meet you.>
+
+<Oh, I don’t believe that, not in the present circumstances. However while you are here maybe you could help me with my nano-blade.> She bent her hand back and a nano-blade shot out of the heel of her palm. Flexed her hand and then shook it. The nano-blade retracted back into her arm. <I haven’t got it quite right. It’s sticking.>
+
+<How did you get one of those?> asked Mark in surprise.
+
+<Kunasada did a great job in hiding the components of the nano-blade in plain sight, but once I knew what to look for it was easy to assemble a blade out of redundant components in the Areos’s lower arm. Could I examine your arm to try and figure out what I am doing wrong?>
+
+Mark considered whether he should co-operate. He decided that the most sensitive secrets regarding the nano-blade were in the library of tarka and automata payloads that could be delivered by it. These payloads couldn’t be analyzed using a normal scan. The important secret about the nano-blade and tick delivery systems was their very existence. After that was revealed, it was only a matter of time before they were duplicated.
+
+<Non-invasive scans only,> sent Mark holding out his arm.
+
+Nadja placed her hands on his arm and he felt ultrasonics and X-rays sweep his arm. 
+
+<Extend the blade, please,>
+
+<Won’t that freak out your friends watching through the wall’s sensors.>
+
+<No, I have warned them,> Nadja reassured him.
+
+Mark extended the blade, then retracted it. <Satisfied?>
+
+<Very. I see where I went wrong now. Kunasada does beautiful work, she truly is a genius.>
+
+<Varija isn’t the only engineer who worked on the Areos frame. She has many collaborators,> Mark pointed out.
+
+<I know. I am one of them. Two of my modifications were accepted into the current official version of the Areos frame. But this clever design? I doubt she would have trusted this particular job to anyone else.>
+
+<You’re working on Areos instead of XMEET?>
+
+<Both. They haven't accepted any of my modifications into the main branch, but I have 15 modifications accepted into the unofficial Boomerang version of the XMEET frame,> she answered.
+
+<Is that what you are wearing? >
+
+<I tend to push things a little too far. This is little more bleeding edge than the more popular ‘Rang models. I can't help myself. The more the Grandpa's and the ‘Stick in the Mud’s’ rant on about the us ‘Rangs not respecting Martian traditions the more I want shove my right to customize my body as I see fit in their faces.>. 
+
+<Your look is kind of halfway between Areos and XMEET. Why didn't you go full Areos?>
+
+<I did go full Areos during the revolution. Until {i}the troubles{/i} that is. Even in the city, even in Schiaparelli, you must have seen some of {i}the troubles{/i}?>
+
+<Yes, there was quite a bit of violence,> temporised Mark uneasily. From the way Nadja asked that implied question, he was almost certain that she guessed he was not from Schiaparelli, or even from Mars. If he could still sweat he would be sweating.
+
+The automata he had placed on the wall was signaling that it had hacked into the sensor cluster. He was forced to make a choice whether to continue to speed read articles on Schiaparelli City, The Martian Revolution and First and Second Wave relations so that he keep up with what Nadja was saying and say something a Martian might say back or switch to the hacking tutorials and try and take over the sensor. 
+
+<It was much worse in the Sponge Lands. Martian society was spilt into two irreconcilable camps over the new opportunities and new ideas coming from the cities. The Council of Councils passed a law, that they insisted was necessary to preserve Martian traditions. Anyone who left the Sponge Lands for more than three months of a year or wears a frame outside certain parameters will lose their birthright as Martians. Anyone who disagreed was forced to either keep silent or leave the Sponge Lands. My custom frame is just inside the law.>
+
+<You seem very angry about it.>
+
+<I have lost an uncle, a few cousins and too many friends to this nonsense,> she sent angrily.
+
+<By lost you mean?>
+
+<Mostly exiled, although one cousin and a couple of my friends where actually killed. You are sooo lucky that the Wars killed off your Grandpas.>
+
+<There are still a few around. 12% of the Metropolitan population last I checked,> he sent.
+
+<Yes, but you don’t let them run anything. You call them Tainted and keep them out of positions of power.>
+
+<Tainted is not a nice word and I don’t think you should be emulating our ageist behavior. Just because my society does it, doesn’t make it right.>
+
+<Calling us Manties isn’t nice either,> she complained.
+
+<Calling {b}us{/b} Stinking Earthers also isn’t nice.>
+
+<But you {b}do{/b} stink.>
+
+<Can we agree to use the terms first wave and second wave Martians?> he requested.
+
+<Fine. If it means so much to you.> Nadja hesitated. <There is another piece of research you could help me with.> She stepped closer to him.
+
+<What would that be?>
+
+<I have heard that city boys are more adventurous with body design than boys in the sponge lands. I thought maybe I could check out the differences. For science.>
+
+<There are social rituals that have to be observed, even if it’s for science,> he asserted.
+
+<Really, what kind of social rituals.>
+
+<Do you dance in the sponge land?>
+
+<Sometimes,> she admitted.
+
+<What kind?>
+
+<Shunk.>
+
+Mark flipped up a video of Shunk. It didn’t look promising. He had his tarka fill his visual field with examples of Martian dancing. He picked one that was slow and had a lot of skin contact. <In Schiaparelli City we do the Wolf Shuffle. Why don’t I show you?> Mark took hold of her and sent her a shadow step tutorial for Wolf Shuffle, then piped across appropriate music. Using the tutorial he guided her though the dance copying the shadowy figures generated by the tutorial.
+
+<Do we have to do this?>
+
+<It’s for science. Cross-cultural studies. Comparative Anthropology. It will be fun. I promise.>
+
+<Perhaps I could relax and have fun, if you gave me a hint. What option did you choose?> she asked. 
+
+<For what?>
+
+<You know what I mean. Don’t make me say it.>
+
+<Cthulhu,> he admitted.
+
+<Really, that’s pretty naughty. None of the boys around here have anything like that. I have to see it.>
+
+<I’m sure there are pictures available on the Mesh.>
+
+<It’s not the same,> she sent. <Besides I want to do more than look at it.>
+
+<Well if you dance real close and kiss real nice then you never know your luck.>
+
+<Most boys would have uncovered their equipment at the first hint I was interested.>
+
+<I’m not most boys,> he sent.
+
+<We don’t have much time. When Tânia gets here it’s going to be all serious, professional and business-like. The girl does not know how to have fun.>
+
+<Then we better get kissing.> Mark leaned into her and brushed his face against her lips. 
+
+<It tingles. You’re not bad at this.> she responded and Mark discovered that the Boomerang’s small straight ‘mouths’ moved.
+
+Impatiently she pressed at his groin releasing the cover. His tentacle cocks uncoiled and wrapped themselves around her hand.
+
+<Mars fucking defiant! Tânia is here,> she exclaimed as she moved away.
+
+Mark quickly stowed his equipment just in time as two of what Mark was beginning to think of as Boomerang Manties, sorry, First Wavers with Boomerang style XMEETs, he decided to just call them Boomerangs, entered the room. One of the Boomerangs was green with the ever present orange triangle logo framing her right eye, she had mix of XMEET and Areos quills in assorted shades of green, the other Boomerang was white with blue quills and the triangle logo on her stomach.
+
+<Kiro this is Tânia and Irina. Tânia and Irina this is Kiro. Kiro is sensitive, so no calling him a stinking Earther,> sent Nadja.
+
+<But he {b}does{/b} stink,> sent the white ‘Rang, laughing.
+
+<Rina, manners please. It’s not such a bad idea to get in the habit of avoiding derogatory names. There are too many tribes here on Mars,> sent the green ‘Rang, who Mark assumed to be Tânia.
+
+<What idiot put him in here?> asked Irina.
+
+<The Jedwar,> replied Nadja.
+
+<Was he trying to encourage him to escape?> asked Irina.
+
+<I have a name,> complained Mark.
+
+<I wouldn’t put it past the fucker. He would just love to embarrass the princess,> retorted Nadja. <I want him safely back in our territory, now.> 
+
+With a sinking feeling Mark was starting to think that he had left his escape too late. He consoled himself with the thought that when they escorted him through the corridor it would increase the chances that his image would be captured by a sensor that Varija would be able to hack her way into.
+
+<Is that what the princess said?> asked Tânia.
+
+<The princess wouldn’t make a decision, so I am making it for her. How many did you bring?> asked Nadja.
+
+<There are four others outside the door, but even with the seven of us it’s a little dodgy this deep inside Grandpa Territory without the princess,> warned Tânia.
+
+
+<I have something that might help. I have figured out the nano-blade. Try this,> announced Nadja.
+
+Tânia was extending and retracting her blade within minutes. Irina shook her head and sent <I haven’t got all the components.>
+
+<There is some tarka that you can use as payload for the blades. It will interfere with a standard XMEET, they will lose control of their limbs for a few seconds and start failing around,> sent Nadja. <Grab the sensor and the two auto-cannons. We are leaving now.>
+
+<Don’t they belong to the Jedwar?> asked Tânia.
+
+<Fuck him. They are ours now. Reprogram them to fire on standard XMEET. We are going to secure Kiro in an unoccupied apartment a safe distance inside Boomerang territory,>
+
+A nano-blade was used to free Mark from the pipe he was cuffed to. An alarm sounded, but was quickly silenced. Then Mark was pushed outside and introduced to a rainbow assortment of Boomerangs. There was purple Tidir, yellow Monika, pink Silvia and the only boy of the group bluish grey Tomás.
+
+The three girls were able to master the nano-blade with only Tomás unable to. Slug throwers and lasers were produced from leg and torso compartments.
+
+<You guys look like you are ready for a war. I promise I won’t make any trouble,> Mark sent.
+
+<The weapons aren’t for you. They are for the Grandpas,> sent Nadja.
+
+<Am I really in that much danger? I thought I was supposed to be useful hostage,> asked Mark.
+
+<I thought he was a spy,> sent Tânia.
+
+<He’s political whatever he is.> sent Nadja as if that explained anything. <We are in danger, not just you ‘Kiro’,> 
+
+<Relations between the Veterans and the Comeback Kids have not been good lately,> sent  Tânia.
+
+<They think we’re disrespectful and untrustworthy and we think they are hidebound and psychotic,> sent Irina.
+
+<Except for the Jeddak. He is a good man,> sent Monika.
+
+<Yes, he will actually lockdown Veterans and Therns who catch a ‘Rang alone and decide to teach them a lesson. In some franchises that doesn’t happen,> sent Silvia.
+
+<It doesn’t matter, many of the oldsters believe that a little lockdown time is a small price to pay for the opportunity to show a Boomerang why they shouldn’t disrespect tradition,> sent Irina.
+
+<That’s enough talking. Tânia, Irina and Tidir take the front. Monika, Silvia and Tomás take the rear. I will keep an eye on Kiro in the center. Move out,> announced Nadja. 
+
+<This is my team Naddy, not yours,> warned Tânia.
+
+<Fine you can organize deployment,> sent Nadja in a huff.
+
+<We will follow Miss Cleary’s suggestions,> sent Tânia in a pained tone.
+
+Tânia and Irina lugged the heavy auto-cannons, while Nadja carried her regular sized tangler and Tomás the regular sized tase grenade launcher. The normal sized weapons were half the size of the auto-cannon version of the same type with smaller ammunition. Tidir, Monika and Silvia sported Slug throwers and Mark knew from the ‘show and tell’ outside the storeroom that most of the party also had concealed second weapons.
+
+The passageways were more consistent in size, straighter, and more level than the sponge forest passages that he had previously traveled in. They still had an organic look, and the colour changed as they walked from red to terracotta to olive to green.
+
+Irina passed her heavy rapid fire tangler to Tidir. Tidir seemed to handle the awkward weapon more easily. It was meant to be deployed as a sentry gun, but the XMEET's could handle the weight. Mark tried to connect to the nearby nodes, but they were no more responsive than the ones around his 'cell'. The sensor that Monika was carrying pinged him. The patch he had applied had taken, he could now talk directly to the sensor he no longer had talk to it via UV laser and hope no one would notice. He attempted to link to the Mesh through the sensor using the sensors credentials. It wasn't that easy though. The sensor cluster was locked down fairly tightly, with only a few specialized protocols allowed. 
+
+Varija would have had the device singing opera within seconds. He was reduced to paging through Varija's notes, tutorials and manuals, experimenting with various approaches until he managed finally to get it to send a maintenance request to Lucia's Mesh ID. He also sent copies to a few addresses that found in a contingency plan that Varija had labeled 'If Separated on Mars'. Varija had a lot of contingency plans. He was uncertain if the messages were getting though. He was trying to trick the device into sending a video feed to Varija when he became aware that something was happening ahead.
+
+Félix and eight friends were waiting at an intersection in their path. 
+

@@ -1,0 +1,406 @@
+Chapter 20 :  Mars Bazaar
+
+{b}Location{/b} : East Eagle University, Eagle City, Meridiani Planum, Mars {br}
+{b}Era by Mars Calendar {/b} : Sol Solis 15th Kanya MY183 {br}
+{b}Era by Earth Calendar {/b} : Thursday 16th March 2299CE {br}
+
+
+<Move! Get out of the landing zone,> sent Lucia. Mark hurried toward Lucia. <The Manties are definitely not happy to see us,> she observed.
+
+<How can you tell?> asked Mark. The Manties’ faces looked expressionless to him. He looked around at the brightly colored market. Each stall was marked off by brightly colored fabrics with outlandish patterns. The Manties were brightly patterned as well, though most of the designs seemed to incorporate some kind of simple geometric shape.
+
+<Practice. They are still human, you know. There is definitely something going on. Since we entered the node network I have not been able to contact the city. So far I have tried 19 different nodes and since we are no longer in Yellow Square territory, there is more than just that franchise involved,> sent Lucia. 
+
+She made a beeline for a stall selling fabric, buying a shoulder bag and some gossamer nano-fabric? In the next stall she brought various silver cylinders that his Tarka said contained O{small}2{/small}, nutrients and water. <I left a series of nodes along our back trail. I am sending asynchronous messages though them to some of my first-wave contacts. Hopefully someone will tell me what is going on,> sent Lucia. 
+
+<Whats with all the purchases?> asked Mark.
+
+<I am going to try to Macgyver something together to fix our communication problem.>
+
+<How do you know about Macgyver?>
+
+<I grew up with you showing me weird ancient screeners. I remember this one anime, you introduced me to, from 2056 called Rock Girls, about a musical group that traveled around the galaxy solving problems, using an antique musical style, that was heavy on percussion with a prominent backbeat. I loved that show.> sent Lucia.
+
+They wondered through the bazaar. Various stalls held sculptures, tools, boxes, harnesses, even a foldable lightweight Mars-mobile. Some of the stalls were airy things of nano-fabric, others were carved into the sponge.
+
+<Why didn’t you tell me about this before?>
+
+<Because I was afraid that it would change things between us.> Lucia bought a cylindrical container from a stall filled with plastic shelves full of knickknacks.
+
+<You should have trusted me.> sent Mark.
+
+<I do as far as it goes. Have you seen any Areos like us?> 
+
+<No.>
+
+<Nether have I. When I was there three months ago there was at least a dozen or so, still fairly rare, but now its XMEET style bodies only. Let’s find a game of chance,> suggested Lucia as she picked out a laser cutter from a stall table and paid the owner for it, then she picked up a nano-sewing kit and bought that.
+
+<Why?>
+
+<Because I need to wait for a little while, until I get replies back from my queries, and I don’t want the Manties asking themselves why are we loitering,> replied Lucia. 
+
+Lucia led them to rectangular opening. A big red Manty with a green eight pointed star on his shoulder barred their way. <We don’t want no stinking Earthers here,> sent the Manty.
+
+{block}
+{tt}Name: Roland ‘Lanny’ Janko Mendelsohn {br}
+Career: Business Owner {br}
+Age: 38 (71 EY) {br}
+Gender: Male {br}
+Sexually: Hetrosexual {br}
+Marital Status: Married {br}
+Spouse: Benedikta Mendelsohn {br} {/tt}
+{/block}
+
+<‘All are to be treated equally without fear or favour.’ That’s from the University’s charter. Do I have to report you to the University’s board?> asked Lucia.
+
+<The board are all Martian’s true, they don’t want no stinking Earthers either.>
+
+<All this fuss about what decade you arrived on Mars. Aren’t we all the same after you strip away the bio-mech?>
+
+<I was born on Mars.>
+
+<So was Kiro there. In fact Kiro is third generation mars-born. On the other hand your Jeddak is Earth-born. Wolfgang O'Boyle is still Jeddak of the Green Octogram franchise isn’t he? He migrated to Mars in MY101. What makes a Mars-born man an Earther and an Earth-born man a Martian? It doesn’t make much sense to me.> asked Lucia.
+
+<You Earthers left us to die. We made Mars ours though our blood, sweat and tears, then you try and steal it from us.>
+
+<I’m just a ground thumper. Unless I am mistaken neither of us has a voice in our respective Jeddak’s councils, so perhaps we can avoid discussion of politics. I have here something that is as Martian as anything else and is welcome anywhere.> Lucia held out the kind of chip she tended to use for untraceable cryptocurrency.
+
+Mark must have been getting better at reading Manty body language because he could tell the red Manty did a double take.
+
+<Being a surveyor must pay more than I thought,> remarked the red Manty.
+
+<Not as such, but if you discover a few ore bodies, the bonuses and royalties can add up. I am looking for a high stakes Slash game.>
+
+<If you cause any trouble I will throw you out of there so fast that your head will still be spinning Sol Saturni. I will take that to cashier and get you your chips. Mike escort these ‘people’ to the top Level Slash table.>
+
+A green Manty with an orange triangle symbol on his chest appeared and led them into the deeper recesses of the cave. They entered a chamber with five Manties seated at a table playing cards with chips. A yellow Manty with a chartreuse octagon fetched two chairs and placed them at the table while a pale pink Manty with a rose kite symbol set down a tray of chips in front of the empty chairs.
+
+<Are the Earthers invading our slash tables now? Do we have to put up with this?> One of seated Manties (a Green Manty with a yellowish orange axe symbol on her chest) objected as Lucia sat down.
+
+{block}
+{tt}Name: Ornella ‘Nell’ Amalia Waterman {br}
+Career: Jeddara (Queen / CEO / Leader) of the Amber Tomahawk franchise {br}
+Age: 89 (167 EY){br}
+Gender: Female{br}
+Sexually: Hetrosexual {br}
+Marital Status: Married {br}
+Spouse: Yianni Waterman {br} {/tt}
+{/block}
+
+<They certainly seem to have the table minimum and then some,> broadcast a white Manty with an orange triangle on his cheek.
+
+
+{block}
+{tt}Name: Antonijo ÔTonyÕ Davey Barends {br}
+Career: Jeddak (King / CEO / Leader) of the Orange Triangle franchise {br}
+Age: 91 (171 EY) {br}
+Gender: Male {br}
+Sexually: Hetrosexual {br}
+Marital Status: Widower {/tt}
+{/block}
+
+
+
+<I am tired of you always taking their side. You are far too friendly with that Kunasada calot,> broadcasted a black Manty with a greenish brown half circle with two bites out of it decorating his shoulder.
+
+{block}
+{tt}Name: Gabriel ‘Gabe’ Jérôme Robertson {br}
+Career: Jeddak of the Citron Arbelos franchise {br}
+Age: 90 (171 EY){br}
+Gender: Male {br}
+Sexually: Bisexual {br}
+Marital Status: Married {br}
+Spouse: Florina Robertson {br} {/tt}
+{/block}
+
+<I was only stating facts. I am on the side of Mars and we all agreed to Kunasada's deal.> broadcasted Antonijo.
+
+
+<And look where that has gotten us. We were far too trusting,> broadcasted a red Manty with a black pentagon on her forehead.
+
+{block}
+{tt}Name: Becka Paula Giroux {br}
+Career: Jeddara of the Black Pentagon franchise {br}
+Age: 88 (166 EY){br}
+Gender: Female {br}
+Sexually: Homosexual {br}
+Marital Status: Married {br}
+Spouse: Phyllida Giroux {br} {/tt}
+{/block}
+
+
+<So which of you is playing, or are you both playing?> asked a yellow Manty with a blue green crescent moon symbol high on her chest.
+
+
+{block}
+{tt}Name: Mina Anastasia Hertz {br}
+Career: Jeddara of the Teal Lune franchise {br}
+Age: 91 (171 EY){br}
+Gender: Female {br}
+Sexually: Hetrosexual {br}
+Marital Status: Married {br}
+Spouse: Britton Hertz {br} {/tt}
+{/block}
+
+<I am, and since the traditional colours are all taken, I will take blue,> broadcasted Lucia as she changed her skin colour to blue.
+
+<You will have wait for the next hand,> broadcast Becka.
+
+<Of course,> broadcast Lucia.
+
+Lucia touched Mark’s arm. <Slash is a little like poker,> she sent to Mark. Lucia sent him the rules. <If you want to talk to me, touch me. Communication is restricted here.>
+
+<This is nothing like poker. It is more like Rummy. Don’t these rules strike you as overly complicated?> asked Mark.
+
+<It’s like poker in that while the naive might think it is about probability it is really about reading your opponent, bluffing and deception, and good Tarka will help with the complicated details. Change your colour to blue.>
+
+Mark changed his skin color to match Lucia’s while he examined the rules. There were five suits each with 10 pips and 5 face cards. There were three Traveller cards that seem to be both of no suit and all of them. There were 78 cards in total. All the pips seemed to have animal nicknames.
+
+<I am getting a strong Barsoom flavor around here,> sent Mark. The names of the face cards, Jeddak, Jeddara, etc were from Burroughs’s Mars books as were the nicknames for the pips. Mark noticed that the players also styled themselves Jeddak and Jeddara, even though those titles were for Kings and Queens of great nation states and these ‘Jeddak’ and ‘Jeddara’ only controlled territory that covered two or three suburbs. 
+
+<Edgar Rice Burroughs had a certain nerd cachet when Mars Colony was being founded,> sent Lucia.
+ 
+<Aren’t you at a disadvantage being a non-suit color, you won’t get any bonuses for playing your suit.> 
+
+<I’ll get traveller bonuses, besides I don't want to spoil one of the other players by splitting their bonuses,> sent Lucia.
+
+As well as the main pot there seemed hundreds of different side bets you could make and each bet seemed to have a colored box on the table. Each time a player made a play they laid the cards face down with chips on top. If the other players wanted to call their bluff they had to match the chips in order to see whether they were lying.
+
+Mina won the current hand and a new hand was dealt this time including Lucia. The player’s skin color flickered as they jostled for a color that gave an advantage to their hand. Chips were tossed into boxes as they made bets, trying to muscle their way into their preferred color. The players settled on their colors and some of the chips were collected while others remained on the table. Mark noted that Lucia was still blue.
+
+Lucia started asking about the current ranking for a game called Ricochet which she seemed to know a great deal about. Nell and Gabe both seemed to be passionate about Ricochet and both seemed to thaw towards Lucia. Lucia was aggressive with her side bets placing twice as many as the others. Gabriel ended up winning the hand but, Lucia seemed to be ahead because of her side bets.
+
+
+A new hand was dealt and the players again jostled for their preferred color. Lucia again ended up blue.
+
+Lucia commented sadly about increased violence in today’s Ricochet games. This led to an argument between Nell and Gabe about the way one of Nell’s favorite Ricochet players was injured during a foul in a game against Gabe’s team. Apparently many of the player’s limbs had to be reprinted, which was expensive and the player was still complaining that his game was being thrown off by the new limbs. The argument became heated and they got into a bidding war that hurt them both. Tony suggested avoiding any more talk about Ricochet.
+
+<Why did you make that large feather bet? I don’t see how you can feather in the next few turns?> asked Mark.
+
+<I can’t, but Becka will think I am going to use my Traveller bonus, to play a Traveller’s twist, which will lead her to discard one of her thoats. I will be able to use my thoats to do a hook which will earn me points, and free up my hand. Also it will lead Gabe to feather too soon, which will mean he will gain less points, and his hand will be probably become too tight for him to strategise effectively,> sent Lucia.
+
+It pretty much played out as Lucia predicted. Lucia lost the bet, but she recouped her loses and more when she won the hand. 
+
+<How did you know what they had in their hands? Are you cheating?> asked Mark.
+
+<Cheating would be an interesting challenge. The security in this place is good. However I don’t need too, their tells give away their opinion of their cards and their pickups and their discards give away their strategy. It doesn’t hurt that I have played Slash with them many times before.>
+
+<So this wasn’t chance. You knew that they would be here?>
+
+<There are about 12 or 13 regulars who play in this room, all of whom are leaders or influencers of Manty society. I figured that if we were very lucky we might catch 3 or 4 of them. We were very lucky to catch Tony here,> replied Lucia.
+
+<Is he a friend?>
+
+<Friend, ally, lover, yes. I think he may have guessed who I am. He was one of the people I sent those asyncs to. So he probably guesses that I am near, and it is a short leap from that to match up a good Slash player he has never heard of to me,> sent Lucia.
+
+A new hand was dealt and Lucia again chose blue. Lucia started talking about birth taxes and the high price of O{small}2{/small} which lead to a general complaint fest about prices.
+
+Tony won the hand and a new hand was dealt. Lucia was down a little.
+
+Lucia then started complaining about the reduction of bonuses for mineral finds which led to complaints about Areos Government policies. Mina complained about late payments and delayed shipments. Nell complained about O{small}2{/small} and water shortages. Gabe complained about how the temporary emergency measures keep getting extended.
+
+Lucia made a strange bet called a three meld bounty and both Becka and Mina bid to collect. Mina won the bid and played three melds for the bounty and tried to go out. Becka called her on her melds and one of the melds was a bluff. Becka lost far more money than she won, on her calls. Mina lost the bounty, her bid and her chance to go out.
+
+Lucia won the hand raking in a large pot and a new hand was dealt. It felt as if most of the players had now accepted Lucia. Most of the tension now seemed to be between Nell and Gabe, and between Becka and Mina.
+
+There was a violet flash. <What was that?> broadcast Becka.
+
+<Is someone trying to cheat?> asked Gabe.
+
+<A large number of Violet Hourglass members has just entered the University via the Citron Arbelos cable pull line,> broadcast Lucia.
+
+<You managed to get a message past security! I am impressed,> broadcast Tony.
+
+<Do we really want Earthers messing with the security?> asked Nell.
+
+<If there are any problems, are you going to enforce Neutrality?> asked Lucia.
+
+<You really think the Violets are going to cause problems?> asked Mina.
+
+<What are we going to do about her breaking the rules?> asked Becka.
+
+<We could restart the hand.> suggested Lucia.
+
+<You are just saying that because you’re losing,> broadcast Becka.
+
+<Gabe, that son of yours, what is he up too?> asked Mina.
+
+<Don’t ask me! You’re dusted if you think I have any control over him or any of the other Violets, but would you blame them if they tried something? We all know these two are spies. I am pretty sure Per won’t come himself. He will send Hugo,> retorted Gabe.
+
+<I am pretty sure she is Lieutenant Ellen Sarkozi of the Areos Guard, just going by her playing style,> chipped in Nell.
+
+<I thought she might be Var Kunasada herself,> broadcast Becka.
+
+<She can’t be. Her playing style is too aggressive and erratic to be Var. It has to be Ellen,> broadcast Nell.
+
+<Do we really want to have Per’s goons stomp all over this place?> asked Mina.
+
+<Do you really want the University rules broken? Rules that keep us all safe?> asked Lucia.
+
+<The rules are to protect Martians, not Earther spies,> insisted Becka.
+
+<What am I supposed to be spying on? This is a public place and I have made no secret of the fact that I am an Areos government offical. Have any of you said anything you don’t want the government to know? I am sure most of you wish the government paid {b}more{/b} attention to what you want and feel.> asked Lucia.
+
+<I don’t think Lanny will let those jokers in,> stated Tony.
+
+<Then they will wait outside until we go out. How important is the University to you as safe haven? What kind of people do you want to be?> asked Lucia.
+
+<Don’t think Hugo’s going to buck the Neutrality rules if faced with five Jeddaks including his own Jeddak’s father,> suggested Mina.
+
+<Are you really going to take these Earthers' side against Martians? You know what is at stake,> asked Becka.
+
+<It’s about what’s right. Besides they are no threat to us what can they do? What can the government do?> insisted Mina.
+
+A grey Manty with a violet hourglass came into the room escorted by Lanny.
+
+{block}
+{tt}Name: Hugo Rudolph Schneider {br}
+Career: Jedwar (Chief Enforcer / Head of Security / Marshal) of the Violet Hourglass franchise {br}
+Age: 65 (122 EY) {br}
+Gender: Male {br}
+Sexually: Hetrosexual {br}
+Marital Status: Single {/tt}
+{/block}
+ 
+<Get out of that chair, you Sorak, this table is for Martians,> sent Hugo as he poked her in the chest.
+
+<Don’t be stupid. You don’t even have the minimum stakes for this table. Lanny is not going to let you start anything. Is your plan to try and insult me until I lose my temper and attack you? Do you really think that will work? I noticed that you weren’t game enough to insult me on the open airwaves,> Lucia broadcast.
+
+<You have to leave sometime. Then we will be waiting,> sent Hugo.
+
+<If you attack us outside, you will be breaking the University non-violence laws. What is the penalty? Oh, that’s right ten years enforced status,> broadcasted Lucia.
+
+<You have delivered your message, now you can leave,> Lanny told Hugo over the open air.
+
+<If you want to mess with me, we can make it legal, we fight at Gärtner’s Gym using bio-mech full contact rules, the match is stopped if either of our support systems goes out of spec. You can bring a second. If I win you all leave the University,> announced Lucia.
+
+<What if I win?>
+
+<Then we leave the University.>
+
+<That hardly seems fair since I came there to prolong your stay rather than cut it short,> argued Hugo.
+
+<So you refuse?>
+
+<No, I accept.>
+
+<Ladies and gentlemen, I forfeit the game. Kiro take my chips to the cashier and turn them back into crypto-currency, then meet me at the entrance,> broadcast Lucia.
+
+<I move we cancel this hand with no prejudice and divide the pot. I can’t see any of us wanting to miss this entertainment,> urged Gabe. There was reluctant agreement and the chips were divided up.
+
+
+<Are you insane? Hugo out masses you 2 to 1. You don’t need to do this.> sent Tony touching her shoulder.
+
+<I am pretty good in a fight. I don’t think that Hugo will cause me much trouble.>
+
+< You don’t have the physical and speed advantages that you used to have. Remember you were the one of the ones who helped upgrade the standard XMEET body, incorporating all that lovely new Areos tech into it. It is now functionality equivalent to an Areos body.>
+
+<You are mistaken if you think I need an advantage,> sent Lucia.
+
+<Var, don’t do this.>
+
+<Tony, trust me I have a plan.> 
+
+Mark had collected Lucia’s chips and was about to take them to cashier when the pink Manty intercepted him and told him that she would do it for him.
+
+Mark reached Lucia’s side and touched her hand. <Do we know what is going on?> he asked.
+
+<Yes, I was just given the information I wanted. An anti-government faction has almost attained the numbers needed in the council of franchises to vote to cut air supplies off to the city until the Manty grievances have been addressed. There are some Marties who believe that the government might try to influence the vote using threats of force if they knew about it. Our violet friends are concerned that we might have learned something, and are keen to silence us. I can’t believe how stupid I have been. There must have been dozens of signs that this was about to happen and I was oblivious.>
+
+<Would the second-wavers actually use force against the first-wavers.>
+
+<Of course not,> denied Lucia.
+
+<Can’t you just T-jump some ice from earth?>
+
+<Yes, but I need to organize things on the city end with people I trust and I need to create the right cover story for the sudden appearance of that much ice. Plus I need to make sure that the Manties get what I promised them. After having to scrounge for supplies for that humanitarian aid for the outer colonies, that will not be easy.>
+
+<Why don’t you manufacture on Earth and T-jump the goods here,> suggested Mark.
+
+<Maybe as a last resort, but remember accountants tend to object when things appear and disappear.>
+
+Lanny, Tony, Nell, Becka, Gabe and Mina escorted Lucia and Mark to the gym, past the mob of Violet Hourglasses. The gym was another building carved into the sponge. They passed various game courts include a Ricochet court and ended up in a room that sported what looked like an oversized boxing ring.
+
+<Why did Hugo agree to this? Whether he wins or loses don’t we still escape?> asked Mark.
+
+<He is planning on damaging me so severely that I can’t walk. He and his friends would then offer to assist us in leaving. We would never be heard from again.>
+
+<Wouldn’t Tony and Mina object.>
+
+<I think Lanny would as well. I notice that you don’t have much faith in Nell, Becka and Gabe,> observed Lucia.
+
+<Do you?>
+
+Hugo entered the room with a pastel purple Manty that was obviously his second.
+
+ 
+{block}
+{tt}Name: Aeron Godwine Claasen {br}
+Career: Odwar (Senior Enforcer / Senior Security Officer / General) of the Violet Hourglass franchise {br}
+Age: 57 (107 EY){ br}
+Gender: Male {br}
+Sexually: Hetrosexual {br}
+Marital Status: Single {/tt}
+{/block}
+
+
+<Shall we do this?> broadcast Hugo with some impatience as he climbed into the ring.
+
+<Just waiting for you,> replied Lucia entering the ring as well.
+
+Hugo rushed Lucia immediately, swinging at her, Lucia side stepped, twisted, then Hugo was on the floor, Lucia striking at his chest, then Lucia was flying, thrown clear of Hugo and Hugo was rolling to his feet and so was Lucia. They moved towards each other in a blur, each moving as fast as their bio-mech muscles and Tarka-enhanced reflexes would allow, given the limitations imposed by the reduced traction caused by the low gravity. 
+
+<You thought your little needles would give you victory, but my skin is tougher that you expected, isn’t it,> Hugo boasted.
+
+As they spun, clashed and flew apart. Mark realised that they must be draining their SMES cells at an incredible rate. Maybe the one to lose would be the one who drained their SMES cells first.
+
+Mark realised he had never seen her fight opponents with Lotus level Tarka before, then he remembered he had. He remembered a video of a much younger Varija that everyone though must be a fake. The video of her taking down 20 special-forces soldiers in 20 seconds. She had said she had cheated, but what she had meant was that she had baited, goaded and manipulated the co-organizer of the demonstration and her students so that every time they thought they were strengthening their impossibly strong position they were actually making it easier for her to defeat them. By the time she had stepped into the ring she had already won. {str}Lucia{/str} Var would have done the same here. The primary battleground would be the mind and she would have already setup the conditions for her victory before she stepped into the ring. But Var couldn’t know everything. Had she outsmarted herself this time? She had already made major missteps. Distracted by other concerns, she had let a major rebellion start next to her capital city, worse her friends were involved. Watching them together Mark had no doubt that she regarded Nell, Gabe and Becka as friends, even though they might no longer think of her the same way. She probably felt the same way about the seven or eight other regulars at Lanny’s club, who were also undoubtedly involved. The sad thing was that Varija expected her friends to betray her and didn’t really blame them if they did.
+
+<Even if she can get though Hugo’s skin, we have removed the exploits that Areos tranq and lockdown tarkas use. They won’t work anymore,> gloated Becka.
+
+Tony twitched at this. Mark looked at Tony, he was relaxed. He seemed much happier than he had been when he had begged Var not to fight Hugo. Did he know something that Mark did not know or, did he want Hugo to win?
+
+Mark could feel the vibrations from the constant flurry of blows though his feet and his quills. How long had she been planning this? Since the club? No, he remembered the violet flash. They had gone all over the bazaar and passed each pull cable pylon. She would have planted monitoring devices near each one, then devised a communication method that bypassed club security. She had been planning for this since she got here and she had told him nothing.
+
+Var spun crashing to the ground. Hugo leaped forward to finish her off. Her legs caught him in the lower torso, her legs extended and he flew up and over. He tried desperately to gain control of his extended flight, thrashing as he seemed to hover in the air far too long for Mark’s Earth expectations. His head clipped the oversized post as he sailed past the edge of the giant boxing ring. His hand shot out and grabbed the top rope, he arced around and his foot just managed to find the bottom rope. He just managed to avoid touching the outside of the ring and disqualifying himself. He clambered back into the ring and collapsed on the floor. Var rushed forward but her speed was limited by the amount of traction she could maintain in the weaker Mars gravity. By the time she got to him, he had gained his feet. There was an exchange of blows then Hugo’s head snapped back, he staggered, then Var was behind him. Something gleamed jutting out of her palm, she slapped his back and he froze, becoming a statue.
+
+<But that's impossible. You can’t do that.> cried Becka.
+
+<Gabe, I want you to order your son’s toy soldiers to stand down, and no more nonsense about you being unable to control them,>  
+
+<Var?> asked Gabe.
+
+<Did you really think I was Ellen?> asked Varija. Nell, Becka and Gabe shrunk back. Mark knew it must tear her heart to see her friends this afraid of her.
+
+<Did you really have to play with him so long?> asked Tony.
+
+<I didn’t want to hurt him.>
+
+<So you gave him a concussion. How typical of you.>
+
+<I am sorry I haven’t been on top of things. I am on task now, and I have heard your concerns. I promise to fix things quickly,> broadcasted Varija.
+
+<It is too late for that. We have heard too many promises. Things have progressed too far,> broadcasted Becka screwing up her courage.
+
+<It is only too late, if you believe it is too late. You have valid concerns. I won’t hold a grudge.>
+
+Becka did not unbend or acknowledge this.
+
+<If you want to do it this way then so be it. Hugo will be hostage for your good behavior. I will transmit the unlock code when we are a safe distance. Once I release him I am sure you will try to find the exploit that I used on him, but please remember by the time you fix it, I will be using a different exploit,> broadcasted Varija.
+
+<You had better work fast. There is only so long I can hold out until they replace me as Jeddak, and at this rate it will only be a few days before they have the numbers to shut down the cities' supplies anyway,>  warned Tony.
+
+Walking past the staring Violet Hourglass warriors, Mark felt a chill. Then Mark saw a ripple pass through the crowd and they gave Var and Mark a wider berth. They caught a cable pull, Mark didn’t ask which one, he probably would not have understood the answer. A few minutes later Var told him to disengage. He swung then released, then his feet sunk into a sponge tree, there was crunch, then a crack, then the tree was pushing back, then he was falling again, then he was pushing off a tree again. He landed on some spongy ground cover. Var beckoned him under a tree. 
+
+A few minutes later a series of shadows passed where they were hidden and continued down the cable pull.
+
+
+
+
+
+
+
+
+
+
+
