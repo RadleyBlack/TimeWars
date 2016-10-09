@@ -75,7 +75,7 @@ Alec and Varija sat down and closed their eyes. They opened their eyes in astoni
 
 <“This ship is amazing”> they exclaimed at the same time. They looked at each other in annoyance. <“Stop doing that.”> They asked each other.
 
-<This is a 300 year old decommissioned warship, named {i}Kathryn’s Joy{/i}. Kiro and Jordán plug in to the ships system and start analyzing these specs> sent Varija. 
+<This is a 300 year old decommissioned warship, named Kathryn’s Joy. Kiro and Jordán plug in to the ships system and start analyzing these specs> sent Varija. 
 
 <It has 4 C-S particles regulating a micro fusion reactor that is a hundred times smaller than any reactor I have seen,> remarked Jordán.
 
@@ -121,7 +121,7 @@ Ellen looked at Alec then at Varija, who both had very similar expressions and b
 
 Alec eyes narrowed. <“No!”> they both said. “We don’t get along,” added Alec. <We did once,> contradicted Varija.”Not since Defcon 2293.” <You still haven’t forgiven me for that.>
 
-<That was the Defcon where you were recognized as a Mage under the name {i}The Fury{/i}.> sent Ellen.
+<That was the Defcon where you were recognized as a Mage under the name The Fury.> sent Ellen.
 
 “Wasn’t there some kind of terrorist attack?” asked Ranjeet.
 
@@ -131,9 +131,9 @@ Alec eyes narrowed. <“No!”> they both said. “We don’t get along,” added Alec. <W
 
 “That’s the one. The Head Fox of the Maenads, Thórhildr Bellamy tried to accept the award in our name. I came as Thomas Helrich, our other sister Meg came as Carine Ford, and Tis was providing over watch.  For some stupid reason we thought it was important to prove that Thomas and Carine were different people. It didn’t make any difference. Everyone was still convinced that they were both me, even when they had seen them both in the same place talking to each other,” rambled Alec.
 
-“Are you called {i}The Fury{/i} because there are three of you? There are only three, right?” asked Irmhild.
+“Are you called The Fury because there are three of you? There are only three, right?” asked Irmhild.
 
-<No, it’s because of that stupid photo taken when I was 16. I was known as {i}The Fury{/i} way before 2293,> sent Varija.
+<No, it’s because of that stupid photo taken when I was 16. I was known as The Fury way before 2293,> sent Varija.
 
 “You were supposed to protect us, Tis” accused Alec.
 
@@ -179,13 +179,13 @@ Varija turned away and they fell silent.
 
 “Poor Peter wasn’t the only one Perma-deathed,” Alec said with satisfaction.
 
-<You shouldn’t have given {i}Sanity{/i} that list.>
+<You shouldn’t have given Sanity that list.>
 
-“I told everyone, who was responsible for the massacre, not just {i}Sanity{/i}. The victims had a right to justice.>
+“I told everyone, who was responsible for the massacre, not just Sanity. The victims had a right to justice.>
 
 <Justice, or retribution? You contributed to those NAIA agents and those NAC senators' deaths,> sent Varija.
 
-“{i}Sanity{/i} would have found out anyway. Especially with {i}The Cannon{/i} siding with them. Besides you’re always arguing for transparency. Let sunlight and fresh air remove the rot. Isn’t that what you say?”
+“Sanity would have found out anyway. Especially with The Cannon siding with them. Besides you’re always arguing for transparency. Let sunlight and fresh air remove the rot. Isn’t that what you say?”
 
 <How long have we been fighting corruption and abuse of power? No matter how many of them we jail or ruin, more come out of the woodwork.>
 
@@ -193,9 +193,9 @@ Varija turned away and they fell silent.
 
 “Let’s talk about something else,” Mark suggested.
 
-“Wait! {i}The Cannon{/i} was involved in those deaths in NAIA and its oversight committee in 2294? I thought he worked for the NAIA,” asked Ranjeet.
+“Wait! The Cannon was involved in those deaths in NAIA and its oversight committee in 2294? I thought he worked for the NAIA,” asked Ranjeet.
 
-<“They, not he,”> they answered. <{i}The Cannon{/i} is a team the same as {i}The Dragon{/i},> sent Varija. “{i}Sanity{/i} was formed in response to the Tatienne Arden City Massacre, half the cybersecurity community joined including {i}The American Cannon{/i} and {i}The Chinese Dragon{/i},” said Alec. <{i}Cannon{/i} and {i}Dragon{/i} finally found someone that they hated more than each other,> sent Varija.
+<“They, not he,”> they answered. <The Cannon is a team the same as The Dragon,> sent Varija. “Sanity was formed in response to the Tatienne Arden City Massacre, half the cybersecurity community joined including The American Cannon and The Chinese Dragon,” said Alec. <Cannon and Dragon finally found someone that they hated more than each other,> sent Varija.
 
 <Ranjeet you’re not helping. Why don’t we talk about this nice shiny spaceship we’ve just found?> asked Mark.
 
@@ -209,7 +209,7 @@ Alec’s eyes narrowed with suspicion, “Tis, who is Kiro, really? He feels familia
 
 “I am just someone who cares,” responded Mark.
 
-“Someone who cares. Tis remember whenever we had a fight with Channy, Unka Dar would always make us stop and apologise to each other, he said it didn’t matter who started the fight, it was both of our responsibilities to take care of each other,” asked Alec.
+“Someone who cares. Tis remember whenever we had a fight with Channy, Unka Dar would always make us stop and apologize to each other, he said it didn’t matter who started the fight, it was both of our responsibilities to take care of each other,” asked Alec.
 
 <I don’t think we counted as a ‘we’ at that point.>
 
@@ -298,7 +298,7 @@ Finally Varija lowered her head and communicated with Mark privately. <I have a 
 
 <Run off then.>
 
-“There is another thing, I think Meg is with {i}Sanity{/i}.”
+“There is another thing, I think Meg is with Sanity.”
 
 <She wouldn’t go that far,> asserted Varija.
 
@@ -306,7 +306,7 @@ Finally Varija lowered her head and communicated with Mark privately. <I have a 
 
 <She doesn’t say anything we haven’t thought at one time or another.>
 
-“I am pretty sure she has gone further than talking. I am pretty sure she is the leader of {i}Sanity{/i},” said Alec.
+“I am pretty sure she has gone further than talking. I am pretty sure she is the leader of Sanity,” said Alec.
 
 <Why are you telling this instead of talking to future me?>
 
@@ -318,13 +318,13 @@ Finally Varija lowered her head and communicated with Mark privately. <I have a 
 
 <But … > started Varija.
 
-“But everyone left {i}Sanity{/i} in 2294 because there was a consensus that the right people had paid for the Tatienne Arden City atrocities and that {i}Sanity{/i}’s purpose had been achieved. {i}The Cannon{/i} went back to working for the NAIA and {i}The Dragon{/i} went back to working for the Chinese government and everyone pretended that nothing had happened.”
+“But everyone left Sanity in 2294 because there was a consensus that the right people had paid for the Tatienne Arden City atrocities and that Sanity’s purpose had been achieved. The Cannon went back to working for the NAIA and The Dragon went back to working for the Chinese government and everyone pretended that nothing had happened.”
 
-<Only the crazies want to keep {i}Sanity{/i} going.>
+<Only the crazies want to keep Sanity going.>
 
 “People who believe that the system is fundamentally broken, but isn’t that exactly what we believe,” clarified Alec.
 
-<But {i}Sanity{/i} kills people.>
+<But Sanity kills people.>
 
 “Yes.”
 
